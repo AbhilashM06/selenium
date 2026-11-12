@@ -1,0 +1,7 @@
+<suite name="Selenium Test Suite">
+    <test name="Local Login Tests">
+        <classes>
+            <class name="com.example.SeleniumLocalWebTest3.LocalLoginTest"/>
+        </classes>
+    </test>
+</suite>
